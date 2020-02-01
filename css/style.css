@@ -183,13 +183,13 @@ section .holder .app-store img {
 }
 section .holder .app-store span {
   font-weight: thin;
-  font-size: 24px;
+  font-size: 32px;
   color: #cacaca;
 }
 section .holder h1 {
   display: block;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 32px;
   color: red;
   margin-bottom: 15px;
 }
